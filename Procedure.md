@@ -1,5 +1,6 @@
 ## Procedure to withdraw money from an ATM
 Perform the following steps to withdraw money from an ATM:
+
 Step 1: Insert your Debit or Credit card into the designated card slot. Make sure your card is facing the right way when you insert it.
 
 Step 2: Select a language.
